@@ -1,8 +1,4 @@
 
-
-
-// fetch(`https://api.weatherapi.com/v1/current.json?key=52bfd4288adf4cf69b1174342241811&q=${value}&aqi=no`);
-
 let btn = document.querySelector('#btn');
 let form =document.querySelector('#weatherForm')
 let userValue = document.querySelector("#userInput");
